@@ -3,4 +3,9 @@ very pleasant to listen
 feeling calm
 hjk
 good
+<<<<<<< HEAD
 hello
+=======
+excellent tune
+>>>>>>> b89c604c31bc060cf143a27e96a5b585162c254a
+new one
