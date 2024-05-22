@@ -7,3 +7,6 @@ hello
 excellent tune
 new line
 
+hi
+hello
+how are you
